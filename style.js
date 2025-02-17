@@ -6,8 +6,5 @@ export const styles = {
     imagem: {
         width: 50,
         height: 50
-    },
-    btn: {
-        color: "red"
     }
 }
