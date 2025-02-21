@@ -3,7 +3,8 @@ const COLORS = {
     dark_gray: "#5D6275",
     medium_gray: "#A6ABBC",
     white: "#F4F7FE",
-    green: "#38C682"
+    green: "#38C682",
+    light_gray: "#E5ECFC",
 }
 
 const FONT_SIZE = {

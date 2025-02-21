@@ -5,7 +5,8 @@ export const styles = {
         width: "100%",
         height: 60,
         backgroundColor: COLORS.red,
-        justifyContent: "center"
+        justifyContent: "center",
+        borderRadius: 10
     },
     texto: {
         fontSize: FONT_SIZE.md,
